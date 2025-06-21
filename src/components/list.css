@@ -1,0 +1,17 @@
+.Content{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.task{
+    color:white;
+    font-size:20px;
+    padding-top: 5px;
+    padding-left:10px;
+
+}
+.check{
+    width: 20px;
+    
+}

@@ -1,0 +1,51 @@
+.App{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ListBox{
+    height: 500px;
+    width: 400px;
+    border-radius: 2%;
+    background-color: white;
+    overflow: auto;
+    scrollbar-width: none; 
+  -ms-overflow-style: none;
+    background:  linear-gradient(to right, #00008b, #6a0dad);
+    box-shadow: -12px 11px 38px -6px rgba(0,0,0,0.4);
+
+}
+.wrap{
+     display: flex; 
+     flex-direction: column;
+    align-items:  center;
+}
+
+.Search{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+input{
+    width: max;
+    height: 30px;
+    width: 350px;
+    padding-left: 10px;
+}
+.Add{
+    width:50px
+}
+
+h1{
+    color:rgb(255, 255, 255);
+}
+
+.Listcontent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
