@@ -3,7 +3,7 @@ import "./App.css";
 import List from "./components/list";
 import axios from "axios";
 
-const URL =   import.meta.env.VITE_API_URL;
+const URL = "https://todolist-server-4t5c.onrender.com";
 
 function App() {
   const [input, setInput] = useState("");
