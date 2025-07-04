@@ -12,7 +12,7 @@
     overflow: auto;
     scrollbar-width: none; 
   -ms-overflow-style: none;
-    background:  linear-gradient(to right, #00008b, #6a0dad);
+    background:  linear-gradient(to right, rgba(0, 0, 0, 0.433), rgba(255, 255, 255, 0.532));
     box-shadow: -12px 11px 38px -6px rgba(0,0,0,0.4);
 
 }
